@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gametojj
 - 👀 I’m interested in cryengine
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently making - meme on cryengine
 - 📫 How to reach me - dm me in telegram @brat1488
 
 <!---
